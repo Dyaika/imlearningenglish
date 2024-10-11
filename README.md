@@ -26,6 +26,10 @@ https://ieltsonlinetests.com/ielts-exam-library?tab=academic
 
 [Speaking task 2 structure and strategy](https://www.ieltsadvantage.com/2015/03/03/ielts-speaking-task-2-strategy/)
 
+[Speaking marking criteria](https://takeielts.britishcouncil.org/sites/default/files/ielts_speaking_band_descriptors.pdf)
+
+[Writing marking criteria](https://takeielts.britishcouncil.org/sites/default/files/ielts_writing_band_descriptors.pdf)
+
 ### Some content creators
 [IELTS Advantage](https://www.youtube.com/@Ieltsadvantage) Tips and tricks for IELTS.
 

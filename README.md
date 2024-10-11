@@ -24,6 +24,8 @@ https://ieltsonlinetests.com/ielts-exam-library?tab=academic
 
 [Books](https://ielts.ru/files/%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0_IELTS.pdf)
 
+[Speaking task 2 structure and strategy](https://www.ieltsadvantage.com/2015/03/03/ielts-speaking-task-2-strategy/)
+
 ### Some content creators
 [IELTS Advantage](https://www.youtube.com/@Ieltsadvantage) Tips and tricks for IELTS.
 

@@ -38,7 +38,7 @@ https://ieltsonlinetests.com/ielts-exam-library?tab=academic
 [Ted](https://www.youtube.com/@TED) Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.
 
 # If I have money to spend
-[Mock tests](https://ielts.preptical.com/tests/pricing/) 29$/69$/99$ per 1/3/5 tests
+[Mock tests](https://ielts.preptical.com/tests/pricing/) 29/69/99 EUR per 1/3/5 tests
 
 [Paper-based mock test](https://ielts-school.ru/program/6) 5000 RUB per test
 

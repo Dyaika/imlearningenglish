@@ -10,6 +10,12 @@ This file was created to organize information about my preparation for IELTS Aca
 
 [IDP Bangladesh](https://www.idp.com/bangladesh/ielts/oncomputer/listening-practice-tests/)
 
+#### Writing Task 1
+[Language to Describe Graphs](https://ieltsonline.com/topic/language-focus-graphs/)
+
+[Language to Describe Maps and Processes](https://ieltsonline.com/topic/language-focus-maps-and-processes/)
+
+
 ### Unofficial
 https://ieltsonlinetests.com/ielts-exam-library?tab=academic
 
@@ -48,3 +54,4 @@ https://ieltsonlinetests.com/ielts-exam-library?tab=academic
 
 ### Who accepts IELTS?
 https://ielts.org/take-a-test/why-choose-ielts/who-accepts-ielts
+
